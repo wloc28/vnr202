@@ -141,7 +141,7 @@ function VerticalTimeline1() {
 
                             <div className="bg-gray-50 p-3 rounded-lg">
                               <Image
-                                src="https://hair-salon-fpt.io.vn/uploads/14d5d4e0-a2dc-4a47-ade5-8d186e417790_dai%20tuong%20vo%20nguyen%20giao.jpg"
+                                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3anR2kM5POFAbMMfbNmlr1Eiapx3tmJD7Lg&s"
                                 alt="Đại tướng Võ Nguyên Giáp chỉ đạo chiến dịch"
                                 width={800}
                                 height={600}

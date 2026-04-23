@@ -415,7 +415,7 @@ function PreprationPhase() {
         </div>
         <div className="flex-1 min-w-[250px] flex flex-col items-center">
           <Image
-            src="https://baotangchungtichchientranh.vn/resource/images/2024/07/nlarge.c72176eaf9ebdeb4346ca997365ed30a.jpg"
+            src="https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/5/5/1188346/8Ls-5.jpg"
             alt="Sức lao động icon"
             width={500}
             height={350}
